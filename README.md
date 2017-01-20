@@ -1,16 +1,13 @@
 # README
 
-## Json project
+TimeTracker and https://github.com/egglestn/TimeTrackerUI are investment projects
 
-This project is a JSON-only server, intended for use with a separate UI client.
+Intentions:
+* learn a bit more about Json API for rails
+* learn about integrating google ids with an app
 
-It won't look like much on its own!
+Investment projects are timeboxed so the code and UI may not be pretty: the primary intention is to learn quickly.
 
-For an example client, see <br>
-`http://localhost/TimeTrackerUI/`
-
-File system <br>
-`/Library/WebServer/Documents/TimeTrackerUI`
-
+TimeTracker is JSON-only server, intended for use with a separate UI client, so it won't look like much on its own!
 
 
