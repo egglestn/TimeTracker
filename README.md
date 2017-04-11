@@ -10,6 +10,8 @@ Investment projects are timeboxed so the code and UI may not be pretty: the prim
 
 TimeTracker is JSON-only server, intended for use with a separate UI client, so it won't look like much on its own - curl experts are welcome to browse
 
+The UI runs in any web server, eg Apache, if hosted locally go to http://localhost/TimeTrackerUI/
+
 TODO
 
 * Change entries table to support date fields
@@ -18,3 +20,4 @@ TODO
   - via google
   - or for simplicity just parse the email address?
 * User management??
+
